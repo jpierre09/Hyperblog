@@ -1,2 +1,2 @@
 # Hyperblog
-Hyperblog (github certification)
+Hyperblog (Github Certification)
